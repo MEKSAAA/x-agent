@@ -94,6 +94,3 @@ node_modules
 .playwright/
 playwright-report/
 test-results/
-
-# Eliza AI
-.eliza/
