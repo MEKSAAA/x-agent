@@ -25,57 +25,6 @@ cd my-project
 elizaos dev
 ```
 
-## X Agent: Onchain Koi
-
-- 基础功能：
-  - 爬取站点（`CRAWL_URLS`）发现新链接 -> 自动在 X 发帖
-  - 定时日常发帖（`DAILY_POST_INTERVAL_MINUTES` 可配）
-  - HTTP 路由 `POST /ops/tweet` 测试发帖
-
-### 环境变量
-
-请复制 `.env.sample` 为 `.env` 并填入：
-
-```
-OPENAI_API_KEY=...
-
-# X/Twitter
-TWITTER_API_KEY=...
-TWITTER_API_SECRET_KEY=...
-TWITTER_ACCESS_TOKEN=...
-TWITTER_ACCESS_TOKEN_SECRET=...
-
-# 爬虫/发帖
-CRAWL_URLS=https://example.com
-CRAWL_INTERVAL_MINUTES=10
-X_POST_ON_NEW_LINK=true
-X_POST_ENABLED=true
-DAILY_POST_INTERVAL_MINUTES=180
-X_HASHTAGS=#crypto,#web3,#memes
-```
-
-### 本地运行
-
-```bash
-bun install
-bun run build
-elizaos dev
-```
-
-启动后，Agent 会按照配置启动爬虫与定时发帖服务。
-
-### 测试发帖
-
-```bash
-curl -X POST http://localhost:3000/ops/tweet \
-  -H 'Content-Type: application/json' \
-  -d '{"text":"Onchain Koi 上线测试 🐟"}'
-```
-
-### 账号切换
-
-将 `.env` 中的 X 凭据替换为公司运营账号凭据，无需改代码即可切换。
-
 ## Development
 
 ```bash
