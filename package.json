@@ -60,6 +60,7 @@
     "start": "elizaos start",
     "dev": "elizaos dev",
     "build": "bun run build.ts",
+    "postinstall": "npx playwright install --with-deps chromium",
     "lint": "prettier --write ./src",
     "type-check": "tsc --noEmit",
     "type-check:watch": "tsc --noEmit --watch",
