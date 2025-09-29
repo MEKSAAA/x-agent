@@ -89,3 +89,8 @@ cypress/screenshots/
 # Bun
 bun.lockb
 node_modules
+
+# Playwright
+.playwright/
+playwright-report/
+test-results/
