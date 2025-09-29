@@ -1,0 +1,300 @@
+[
+  {
+    "ts": "2025-09-28T16:40:00.519Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972331758092689667",
+    "status": "success",
+    "details": {
+      "id": 1
+    }
+  },
+  {
+    "ts": "2025-09-28T16:40:00.519Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "status": "success",
+    "details": {
+      "id": 2
+    }
+  },
+  {
+    "ts": "2025-09-28T16:40:00.519Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "status": "success",
+    "details": {
+      "id": 3
+    }
+  },
+  {
+    "ts": "2025-09-28T16:53:45.463Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "status": "success",
+    "details": {
+      "id": 1
+    }
+  },
+  {
+    "ts": "2025-09-28T16:53:45.463Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "status": "success",
+    "details": {
+      "id": 2
+    }
+  },
+  {
+    "ts": "2025-09-28T16:53:45.463Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972339078298300721",
+    "status": "success",
+    "details": {
+      "id": 3
+    }
+  },
+  {
+    "ts": "2025-09-28T16:57:19.825Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972331758092689667",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T16:57:37.783Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972331758092689667",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972331758092689667\nCall log:\n  - navigating to \"https://x.com/i/communities/1972331758092689667\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T16:59:59.799Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972342389210591491",
+    "status": "success",
+    "details": {
+      "id": 1
+    }
+  },
+  {
+    "ts": "2025-09-28T16:59:59.799Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "status": "success",
+    "details": {
+      "id": 2
+    }
+  },
+  {
+    "ts": "2025-09-28T16:59:59.799Z",
+    "action": "crawl_discover_trending_30m",
+    "target_url": "https://x.com/i/communities/1972341400218775703",
+    "status": "success",
+    "details": {
+      "id": 3
+    }
+  },
+  {
+    "ts": "2025-09-28T17:01:14.023Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972342389210591491",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:01:30.064Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972342389210591491",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972342389210591491\nCall log:\n  - navigating to \"https://x.com/i/communities/1972342389210591491\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:02:04.681Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:02:57.283Z",
+    "action": "join_community",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "status": "failed",
+    "screenshot_path": "/home/meksa/x-agent/data/screenshots/community-join-failed-1759078975643.png"
+  },
+  {
+    "ts": "2025-09-28T17:02:57.370Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: Failed to join community"
+  },
+  {
+    "ts": "2025-09-28T17:03:29.045Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972341400218775703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:03:48.008Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972341400218775703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972341400218775703\nCall log:\n  - navigating to \"https://x.com/i/communities/1972341400218775703\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:04:06.990Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972342389210591491",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972342389210591491\nCall log:\n  - navigating to \"https://x.com/i/communities/1972342389210591491\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:04:22.006Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972329999685603452\nCall log:\n  - navigating to \"https://x.com/i/communities/1972329999685603452\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:04:39.760Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972341400218775703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972341400218775703\nCall log:\n  - navigating to \"https://x.com/i/communities/1972341400218775703\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:10:48.811Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:11:20.447Z",
+    "action": "join_community",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "status": "failed",
+    "screenshot_path": "/home/meksa/x-agent/data/screenshots/community-join-failed-1759079478972.png"
+  },
+  {
+    "ts": "2025-09-28T17:11:20.519Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: Failed to join community"
+  },
+  {
+    "ts": "2025-09-28T17:14:07.517Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:14:25.512Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972247787971514703\nCall log:\n  - navigating to \"https://x.com/i/communities/1972247787971514703\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:27:22.070Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:27:54.823Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972329999685603452\nCall log:\n  - navigating to \"https://x.com/i/communities/1972329999685603452\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:30:59.307Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:31:17.379Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972329999685603452\nCall log:\n  - navigating to \"https://x.com/i/communities/1972329999685603452\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:31:51.297Z",
+    "action": "join_community",
+    "target_url": "https://x.com/i/communities/1972331758092689667",
+    "status": "failed",
+    "screenshot_path": "/home/meksa/x-agent/data/screenshots/community-join-failed-1759080709981.png"
+  },
+  {
+    "ts": "2025-09-28T17:31:51.428Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972331758092689667",
+    "error": "Error: Failed to join community"
+  },
+  {
+    "ts": "2025-09-28T17:32:26.696Z",
+    "action": "join_community",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "status": "failed",
+    "screenshot_path": "/home/meksa/x-agent/data/screenshots/community-join-failed-1759080745116.png"
+  },
+  {
+    "ts": "2025-09-28T17:32:26.772Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: Failed to join community"
+  },
+  {
+    "ts": "2025-09-28T17:32:40.931Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972329999685603452\nCall log:\n  - navigating to \"https://x.com/i/communities/1972329999685603452\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:44:30.148Z",
+    "action": "post_personal_tweet",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972339078298300721",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/home\nCall log:\n  - navigating to \"https://x.com/home\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:44:44.993Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972339078298300721",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972339078298300721\nCall log:\n  - navigating to \"https://x.com/i/communities/1972339078298300721\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:45:00.829Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972247787971514703",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972247787971514703\nCall log:\n  - navigating to \"https://x.com/i/communities/1972247787971514703\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:45:16.686Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972329999685603452",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972329999685603452\nCall log:\n  - navigating to \"https://x.com/i/communities/1972329999685603452\", waiting until \"domcontentloaded\"\n"
+  },
+  {
+    "ts": "2025-09-28T17:45:49.110Z",
+    "action": "post_community",
+    "status": "failed",
+    "target_url": "https://x.com/i/communities/1972339078298300721",
+    "error": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://x.com/i/communities/1972339078298300721\nCall log:\n  - navigating to \"https://x.com/i/communities/1972339078298300721\", waiting until \"domcontentloaded\"\n"
+  }
+]

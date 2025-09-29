@@ -1,0 +1,32 @@
+[
+  {
+    "x_community_url": "https://x.com/i/communities/1972342389210591491",
+    "token_full_name": "",
+    "ticker": "",
+    "axiom_row_url": "",
+    "first_seen_at": "2025-09-28T16:59:59.799Z",
+    "id": 1,
+    "community_banner_path": "/home/meksa/x-agent/data/community-banners/banner-1-1759078851131.jpg",
+    "community_name": "The Holders Union"
+  },
+  {
+    "x_community_url": "https://x.com/i/communities/1972329999685603452",
+    "token_full_name": "",
+    "ticker": "",
+    "axiom_row_url": "",
+    "first_seen_at": "2025-09-28T16:59:59.799Z",
+    "id": 2,
+    "community_banner_path": "/home/meksa/x-agent/data/community-banners/banner-2-1759080467173.jpg",
+    "community_name": "QUIT"
+  },
+  {
+    "x_community_url": "https://x.com/i/communities/1972341400218775703",
+    "token_full_name": "",
+    "ticker": "",
+    "axiom_row_url": "",
+    "first_seen_at": "2025-09-28T16:59:59.799Z",
+    "id": 3,
+    "community_banner_path": "/home/meksa/x-agent/data/community-banners/banner-3-1759081541527.jpg",
+    "community_name": "Recovery Coin"
+  }
+]

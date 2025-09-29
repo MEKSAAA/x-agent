@@ -1,0 +1,137 @@
+{
+  "cookies": [
+    {
+      "name": "auth-otp-login-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdHBMb2dpbklkIjoiZjc0NjEwZDctYTIzNy00MmYwLWI5YTgtY2ZkZmIxMGU1YjYyIiwiaWF0IjoxNzU4MTA3NzIwLCJleHAiOjE3NTgxMDgzMjB9.eC_qZDuPlZWSpxpRkJSzsxljv3XQC4JmoaH0A0uHzN0",
+      "domain": ".axiom.trade",
+      "path": "/",
+      "expires": 1758108321.391666,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth-refresh-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWZyZXNoVG9rZW5JZCI6ImY2OWJlOTI2LWJiZGMtNDIzZS1iM2U3LTc0N2I0MTc5ZGQ0ZSIsImlhdCI6MTc1ODEwNzczNn0.duZW2QBjkPQADpWjvFoZRgrDhbNlTfYsSnBAfCCSh5I",
+      "domain": ".axiom.trade",
+      "path": "/",
+      "expires": 1792667737.150575,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth-access-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoZW50aWNhdGVkVXNlcklkIjoiMWFmYzcyMDgtZTliNy00YWU2LWExZGYtOTg5Njk1ZjVkOGU2IiwiaWF0IjoxNzU4MTA3NzM2LCJleHAiOjE3NTgxMDg2OTZ9.EJVGgW1hUFOdu8gkYTKCgWioQzIZdPnIB6cdpjfc-EE",
+      "domain": ".axiom.trade",
+      "path": "/",
+      "expires": 1758108637.150872,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://axiom.trade",
+      "localStorage": [
+        {
+          "name": "allSolWallets",
+          "value": "[{\"walletAddress\":\"FDioeRYb9euYMLQTJ2dumqs6UhJe29qjhZGpG3BvVcTY\",\"isArchived\":false,\"isPrimary\":true,\"name\":\"Axiom Main\"}]"
+        },
+        {
+          "name": "sBundles",
+          "value": "[\"e88davpRWpUVVKYz:8DoDe50swmRxHKvexNGPQoncZgqUgQs10acmZePzVQJuGsuXpN9NzyDbklU/YbdJ9pdjPQ/KaI5zHS8i8a6NFEBLqOUvdOMybASIwYSMtNE=\"]"
+        },
+        {
+          "name": "eBundle",
+          "value": "\"WfJAJdDMzB4OIQWB:NGFi7cxnb22h5gqo5RiD8UbxgJMt7ckd4FfQLOGL2wlchf9EdW//HSjJz+ByAAQl\""
+        },
+        {
+          "name": "updateModalVersion",
+          "value": "1.26"
+        },
+        {
+          "name": "shouldOpenPulseOnNewTab",
+          "value": "{\"isOpen\":false,\"view\":\"modal\"}"
+        },
+        {
+          "name": "regionsV4",
+          "value": "{\"name\":\"GLOBAL\"}"
+        },
+        {
+          "name": "isPulse",
+          "value": "false"
+        },
+        {
+          "name": "evmPublicKey",
+          "value": "\"0x9fE4c1bE344Fb64662aF4a8684EC477d25882228\""
+        },
+        {
+          "name": "username",
+          "value": "null"
+        },
+        {
+          "name": "authMethod",
+          "value": "\"email\""
+        },
+        {
+          "name": "trendingTimePeriod",
+          "value": "\"30m\""
+        },
+        {
+          "name": "selectedSolWallets",
+          "value": "[\"FDioeRYb9euYMLQTJ2dumqs6UhJe29qjhZGpG3BvVcTY\"]"
+        },
+        {
+          "name": "isAuthed",
+          "value": "true"
+        },
+        {
+          "name": "updateModalSeen",
+          "value": "true"
+        },
+        {
+          "name": "userSelectedGroup",
+          "value": "[1353344]"
+        },
+        {
+          "name": "shouldOpenDiscoverOnNewTab",
+          "value": "{\"isOpen\":false,\"view\":\"modal\"}"
+        },
+        {
+          "name": "profilePicture",
+          "value": "null"
+        },
+        {
+          "name": "turnkeyOrgId",
+          "value": "\"c428aee2-ab6f-4244-b1b1-2b5dfe0b412e\""
+        },
+        {
+          "name": "rewardsPercentage",
+          "value": "5"
+        },
+        {
+          "name": "bundle",
+          "value": "\"1wAmqpLcPJ7K3tTS:1gFPYzutYIE+/3OOmz9yHqBCkifwYt1LfEvrVoNJWghu41j6DZfRSBZk++/3NV+P\""
+        },
+        {
+          "name": "shouldOpenWalletTrackerOnNewTab",
+          "value": "{\"isOpen\":false,\"view\":\"modal\"}"
+        },
+        {
+          "name": "shouldOpenTwitterAlertsOnNewTab",
+          "value": "{\"isOpen\":false,\"view\":\"modal\"}"
+        },
+        {
+          "name": "userId",
+          "value": "\"1afc7208-e9b7-4ae6-a1df-989695f5d8e6\""
+        },
+        {
+          "name": "notifications",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}
